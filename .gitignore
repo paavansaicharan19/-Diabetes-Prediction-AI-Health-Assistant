@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# User-specific files
+.ipynb_checkpoints/
+
+# Generated reports
+reports/*.pdf
